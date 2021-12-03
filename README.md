@@ -12,8 +12,12 @@ I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daf
         alt="bootstrap">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
         alt="javascript">
-        <img src="https://img.shields.io/badge/NodeJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-        alt="javascript">
+        <img src="https://img.shields.io/badge/NodeJS-F7DF1E?style=for-the-badge&logo=nodejs&logoColor=black"
+        alt="nodejs">
+         <img src="https://img.shields.io/badge/reactJS-F7DF1E?style=for-the-badge&logo=reactjs&logoColor=black"
+        alt="reactjs">
+         <img src="https://img.shields.io/badge/mongoDB-F7DF1E?style=for-the-badge&logo=mongoDB&logoColor=black"
+        alt="mongodb">
 </p>
 <h3>Languages and Frameworks:</h3>
 <p>
