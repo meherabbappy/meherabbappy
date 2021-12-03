@@ -3,7 +3,7 @@
         width="28px" alt="hi">, I'm Meherab</h1>
 
 I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daffodil International University. I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions.A self-motivated IT professional with huge knowledge and proficiency in ReactJS, NodeJS, ExpressJS and mobile
-responsive web development as well as strong skills and ability in writing clean and efficient code. <p><a href="https://meherab-portfolio.netlify.app/" target="_blank> My Portfolio</a></p>
+responsive web development as well as strong skills and ability in writing clean and efficient code. <a href="https://meherab-portfolio.netlify.app/" target="_blank> <p>My Portfolio</p></a>
 
 <h3 align="left">Currently working with:</h3>
 <p>
