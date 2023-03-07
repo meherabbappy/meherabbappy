@@ -2,7 +2,7 @@
         src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"
         width="28px" alt="hi">, I'm Meherab</h1>
 
-I'm currently pursuing B.SC(Final Year) in Computer Science Engineering from Daffodil International University. I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions.A self-motivated IT professional with huge knowledge and proficiency in ReactJS, NodeJS, ExpressJS and mobile
+I have completed B.Sc. in Computer Science Engineering from Daffodil International University. I consider myself who is persistent, a quick learner, and loves problem-solving by using simple and scalable solutions.A self-motivated IT professional with huge knowledge and proficiency in ReactJS, NodeJS, ExpressJS and mobile
 responsive web development as well as strong skills and ability in writing clean and efficient code.
 
 <h3 align="left">Currently working with:</h3>
